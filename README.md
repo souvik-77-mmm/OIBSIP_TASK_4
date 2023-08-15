@@ -1,0 +1,1 @@
+This project detects whether the comment of the E-mail is a 'Spam' or a 'Ham'. Here we have used e-mail spam collection dataset where we trained the modelusing Count Vectorizer and Logistic Regression algorithms , various types of data visualization and using MultinomialNB Algorithm , we made a model and predicted using custom words
